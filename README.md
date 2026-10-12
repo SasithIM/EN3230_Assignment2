@@ -12,6 +12,6 @@ The top-level switch selects ALOHA or CSMA/CA. On open, each model loads `networ
 
 `NetworkChannel.m` is the multipath channel block. `Car1.png`, `Car2.png`, and `NetworkChannel.png` are the block icons.
 
-`ALOHAAndCSMACAPacketizedNetworkExample.m` opens the three-node model. That script, the three-node model, and the library are the MathWorks Communications Toolbox example (Copyright 2017–2025 The MathWorks, Inc.).
+The three-node model and the library come from the MathWorks Communications Toolbox example (Copyright 2017–2025 The MathWorks, Inc.).
 
 `*.slxc` and `slprj/` are generated when a model is simulated and are not in this repository.
