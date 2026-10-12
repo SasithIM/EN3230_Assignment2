@@ -1,0 +1,6 @@
+# Simulink cache and accelerator build output
+*.slxc
+slprj/
+
+# Published-example figure, not loaded by either model
+simulinkNetwork.png
